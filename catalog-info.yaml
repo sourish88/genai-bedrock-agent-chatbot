@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: genai-bedrock-agent-chatbot
+  annotations:
+    github.com/project-slug: sourish88/genai-bedrock-agent-chatbot
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
